@@ -26,12 +26,12 @@ Step 5 - Add Symptoms for the disease, from the drop-down menu, in Symptom1, Sym
 
 
 
+![Screenshot (146)](https://github.com/manishtoshwal/Disease-Decision-Making-System/assets/106297032/07ff4572-92ba-4b3a-ac81-fd7efa9c9083)
+
+
+
 ![Screenshot (147)](https://github.com/manishtoshwal/Disease-Decision-Making-System/assets/106297032/c5dc469e-19bd-4113-8a40-038526889d5c)
 
-
-
-
-![Screenshot (147)](https://github.com/manishtoshwal/Disease-Decision-Making-System/assets/106297032/4806658c-7e65-4b00-9639-4c75a0801634)
 
 
 

@@ -23,3 +23,7 @@ Step 3 - Username and Password to be used at login are:
 Step 4 - Check Terms and Conditions.
 	 
 Step 5 - Add Symptoms for the disease, from the drop-down menu, in Symptom1, Symprom2, and Symptom3, then press Submit.
+
+[Report.pdf](https://github.com/manishtoshwal/Disease-Decision-Making-System/files/12066162/Report.pdf)
+
+
